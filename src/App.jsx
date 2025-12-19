@@ -6,7 +6,7 @@ import viteLogo from '/vite.svg'
 
 import './App.css'
 
-import Greetings from './components/Greetings'
+import Greetings from './components/Greeting'
 
 import User from './components/User'
 function App() {
